@@ -1,1 +1,5 @@
 image: r0m43g/work:v2
+
+vscode:
+  extensions:
+    - octref.vetur@0.31.3:QHyAEoimIBiRDoL6WtEoRg==
